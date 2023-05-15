@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EntradaDatos {
 	
-	//Cadena para ver los tipos de estilos
+	//Cadena para ver los tipos de estilos arquitectónicos
 	
 	String estilos() {
 		Scanner n1 = new Scanner(System.in);

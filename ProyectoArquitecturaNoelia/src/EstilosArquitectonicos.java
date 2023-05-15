@@ -3,7 +3,7 @@ public class EstilosArquitectonicos {
 	
 	void infest(String estilo){
 		
-		//Condicional para dar información sobre los estilos seleccionados
+		//Condicional para dar información sobre los estilos arquitectónicos seleccionados
 		
 		if (estilo.equals("Gótico")) {
 			System.out.println( "\n" +"Este estilo se compone de los siguientes elementos:" 
